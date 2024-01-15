@@ -1,5 +1,5 @@
 import requests
 
-url = "empty.com"
+url = "https://publicsuffix.org/list/public_suffix_list.dat"
 
 requests.get(url)
